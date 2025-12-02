@@ -1,2 +1,13 @@
-# To-Do-app
-A simple To-Do app to add and manage tasks (HTML, CSS, JS)
+
+# To-Do Web App
+
+A simple and clean To-Do list application built using:
+- HTML
+- CSS
+- JavaScript (LocalStorage)
+
+Features:
+✔ Add tasks  
+✔ Delete tasks  
+✔ Saves data automatically  
+✔ Clean UI
